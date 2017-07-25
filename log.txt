@@ -1,0 +1,20 @@
+Script started on Mon Jul 24 22:10:53 2017
+
+[?1034hbash-3.2$ javac -version
+javac 1.8.0_141
+bash-3.2$ java -version
+java version "1.8.0_141"
+Java(TM) SE Runtime Environment (build 1.8.0_141-b15)
+Java HotSpot(TM) 64-Bit Server VM (build 25.141-b15, mixed mode)
+bash-3.2$ ja[K[Kmvn --version
+[1mApache Maven 3.5.0 (ff8f5e7444045639af65f6095c62210b5713f426; 2017-04-03T12:39:06-07:00)[m
+Maven home: /Users/xumiaq/.future_folder/apache-maven-3.5.0
+Java version: 1.8.0_141, vendor: Oracle Corporation
+Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "mac os x", version: "10.12.4", arch: "x86_64", family: "mac"
+bash-3.2$ git --version
+git version 2.8.4 (Apple Git-73)
+bash-3.2$ exit[K[K[K[Kexit
+exit
+
