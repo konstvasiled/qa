@@ -1,0 +1,1 @@
+Hello, Alex. Everything is set UP. Currently trying to find out how to work with Maven ;)
